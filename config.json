@@ -1,0 +1,21 @@
+[
+  {
+    "stylesheets": {
+      "configs": "configs",
+      "libs": "libs",
+      "app": "app"
+    },
+    "javascripts": {
+      "config": "config",
+      "libs": "libs",
+      "app": "app"
+    },
+    "templates": {
+      "partials": "_partials"
+    },
+    "images": {
+      "libs": "libs",
+      "app": "app"
+    }
+  }
+]
