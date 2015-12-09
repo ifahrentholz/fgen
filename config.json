@@ -1,21 +1,9 @@
 [
-  {
-    "stylesheets": {
-      "configs": "configs",
-      "libs": "libs",
-      "app": "app"
-    },
-    "javascripts": {
-      "config": "config",
-      "libs": "libs",
-      "app": "app"
-    },
-    "templates": {
-      "partials": "_partials"
-    },
-    "images": {
-      "libs": "libs",
-      "app": "app"
-    }
+  "app": {
+    "configs": "configs",
+    "resources": "resources",
+    "js": "javascripts",
+    "stylesheets": "stylesheets",
+    "images": "images"
   }
 ]

@@ -3,11 +3,11 @@
 ##generate the default folder structure
 
 ```bash
-fgnie -project <proj-name>
-fgnie -p <proj-name>
+fgnie -app <proj-name>
+fgnie -a <proj-name>
 ```
 
-**should result in generating project files based on the defaults or the 
+**should result in generating app files based on the defaults or the
 provided config.json.**
 
 ---
@@ -20,7 +20,7 @@ fgnie -l <main>
 ```
 
 ###should result in generating layout files. For example:
-- [x] frontend/stylesheets/configs/_main.scss
+- [ ] frontend/stylesheets/configs/_main.scss
 
 ---
 
@@ -32,4 +32,4 @@ fgnie -c <parking>
 ```
 
 ###should result in generating layout files. For example:
-- [x] frontend/stylesheets/components/_main.scss
+- [ ] frontend/stylesheets/components/_main.scss
