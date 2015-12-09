@@ -1,9 +1,0 @@
-[
-  "app": {
-    "configs": "configs",
-    "resources": "resources",
-    "js": "javascripts",
-    "stylesheets": "stylesheets",
-    "images": "images"
-  }
-]
