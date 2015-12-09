@@ -20,7 +20,7 @@ fgnie -l <main>
 ```
 
 ###should result in generating layout files. For example:
-- [x] frontend/stylesheets/configs/_main.scss
+- [ ] frontend/stylesheets/configs/_main.scss
 
 ---
 
@@ -32,4 +32,4 @@ fgnie -c <parking>
 ```
 
 ###should result in generating layout files. For example:
-- [x] frontend/stylesheets/components/_main.scss
+- [ ] frontend/stylesheets/components/_main.scss
