@@ -1,0 +1,24 @@
+{
+  "name": "fgen",
+  "version": "1.0.0",
+  "description": "fgen",
+  "main": "lib/index.js",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifahrentholz/fgen.git"
+  },
+  "author": "Ingo Fahrentholz <ingof.work@gmail.com> (http://www.ifahrentholz.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ifahrentholz/fgen/issues"
+  },
+  "homepage": "https://github.com/ifahrentholz/fgen#readme"
+}
