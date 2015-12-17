@@ -1,9 +1,14 @@
 {
   "name": "fgen",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "fgen",
-  "main": "lib/index.js",
+  "preferGlobal": true,
+  "main": "lib/cli.js",
+  "bin": {
+    "fgen": "lib/cli.js"
+  },
   "dependencies": {
+    "commander": "^2.9.0",
     "mkdirp": "^0.5.1",
     "rimraf": "^2.4.4"
   },
