@@ -33,3 +33,7 @@ fgnie -c <parking>
 
 ###should result in generating layout files. For example:
 - [ ] frontend/stylesheets/components/_main.scss
+
+
+## 
+- search for contributors !
