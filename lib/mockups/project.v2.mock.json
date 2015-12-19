@@ -1,0 +1,29 @@
+{
+  "project": {
+    "projectName": "frontend"
+  },
+
+  "html": {
+    "destination": "html"
+  },
+
+  "stylesheets": {
+    "destination": "stylesheets"
+  },
+
+  "javascripts": {
+    "destination": "javascripts"
+  },
+
+  "template": {
+    "destination": "templates"
+  },
+
+  "layout": {
+    "destination": "layouts"
+  },
+
+  "component": {
+    "destination": "components"
+  }
+}
