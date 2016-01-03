@@ -1,14 +1,16 @@
 {
-  "name": "fgen",
+  "name": "meshup",
   "version": "0.1.0",
-  "description": "fgen",
+  "description": "meshup",
   "preferGlobal": true,
   "main": "lib/cli.js",
   "bin": {
-    "fgen": "lib/cli.js"
+    "meshup": "lib/cli.js"
   },
   "dependencies": {
     "commander": "^2.9.0",
+    "inflection": "^1.8.0",
+    "loggy": "^0.2.2",
     "mkdirp": "^0.5.1",
     "rimraf": "^2.4.4"
   },
